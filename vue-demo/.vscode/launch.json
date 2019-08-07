@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo2",
+            "request": "launch",
+            "mainClass": "demo.demo2",
+            "projectName": "vue-demo_24ea9683"
+        }
+    ]
+}
